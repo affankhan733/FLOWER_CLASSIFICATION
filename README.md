@@ -45,5 +45,18 @@ Loss: categorical_crossentropy
 
 Optimizer: Adam
 
+▶️ How to Run
+Clone the repo
+
+Install dependencies from requirements.txt
+
+Run the Jupyter Notebook
+
+pip install -r requirements.txt
+
+Open the notebook:
+jupyter notebook flowers classification112.ipynb
+
+
 
 
